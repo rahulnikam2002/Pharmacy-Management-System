@@ -1,2 +1,2 @@
 # Pharmacy-Management-System
-C++ and Mysql
+Languages used are: C++ and Mysql
